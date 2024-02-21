@@ -45,7 +45,7 @@ MYSQL_DB=prueba_tecnica</code></pre>
   express, morgan, mysql, nodemon y dotenv.
   
 
-2. **Inicia el servidor de desarrollo:**
+2. **Inicia el servidor:**
 
   <pre><code>npm run dev</code></pre>
   
