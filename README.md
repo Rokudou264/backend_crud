@@ -6,8 +6,8 @@
 
 1. **Clona el repositorio:**
 
-<pre>git clone https://github.com/Rokudou264/crud_js.git
-cd crud_js</pre>
+<pre>git clone https://github.com/Rokudou264/backend_crud
+cd backend_crud</pre>
 
 
 2. **Configura las variables de entorno:**
