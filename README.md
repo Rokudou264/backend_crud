@@ -50,4 +50,7 @@ MYSQL_DB=prueba_tecnica</code></pre>
   <pre><code>npm run dev</code></pre>
   
   
-  Esto iniciará el servidor de desarrollo y podrás acceder a tu aplicación en http://localhost:4000.
+  Esto iniciará el servidor de desarrollo y podrás acceder a la aplicación desde:
+  http://localhost:4000/api/usuarios/
+  http://localhost:4000/api/direcciones/
+  http://localhost:4000/api/companias/
